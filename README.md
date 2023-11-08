@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ## Run
 ```
 python image_semantic_segmentation.py
+python video_semantic_segmentation.py
 ```
 
 ## Output Example

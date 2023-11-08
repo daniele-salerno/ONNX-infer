@@ -3,8 +3,6 @@ from imread_from_url import imread_from_url
 
 from src import InferenceEngine
 
-model_path = "models/fcn8_resnet_v1_18.onnx"
-model_path = "models/fcn_crops_512_simplify.onnx"
 model_path = "models/stdc_512.onnx"
 
 # Initialize semantic segmentator
