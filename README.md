@@ -1,5 +1,7 @@
 # ONNX-infer
 
+[![python](https://img.shields.io/badge/python-3.8-orange.svg)]()
+
 ## About
 Simple script to test Semantic Segmentation Models exported in ONNX with a single image or video
 
