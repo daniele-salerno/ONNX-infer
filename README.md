@@ -1,7 +1,7 @@
 # ONNX-infer
 
 ## About
-Simple script to test a Semantic Segmentation Model exported in ONNX with a single image
+Simple script to test Semantic Segmentation Models exported in ONNX with a single image or video
 
 ## Install
 ```
